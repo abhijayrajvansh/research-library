@@ -1,6 +1,3 @@
-
-![Logo](https://www.abhijayrajvansh.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fabhijay-rajvansh-in-cyberworld.d3d0b42d.png&w=750&q=75)
-
 # Research Library
 
 📚 curated list of my research library and productivity tools.
